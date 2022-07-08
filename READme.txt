@@ -1,5 +1,5 @@
-Nama 	: Dimas Aprian Alif
-Nim	: 191011400840
+Nama 	: Firma SyahPutri
+Nim	: 191011400853
 Kelas	: 06TPLM005
 
-UAS_KECERDASANBUATAN_
+UAS_KECERDASANBUATAN
