@@ -1,4 +1,4 @@
-Nama 	: Firma SyahPutri
+Nama 	: Firma SyahPutra
 Nim	: 191011400853
 Kelas	: 06TPLM005
 
